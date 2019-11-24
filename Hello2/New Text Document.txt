@@ -1,0 +1,143 @@
+INC1964451
+
+VPN 
+
+bgl13-gem-ubvpn-gw2a.cisco.com
+
+
+
+https://wiki.cisco.com/display/CPSST/ST+Automation
+4:50 PM
+Satadru Basu (satbasu - ENGINEER.SOFTWARE/QA ENGINEERING)
+'file://bxb2-netapp-ns/local/techcomm2/Published/SWAG/CPS19.1.0/Final/ForInternalUseOnly/CPS19-1-0AutomationTestingQuickStartGuide.pdf 
+4:53 PM
+Satadru Basu (satbasu - ENGINEER.SOFTWARE/QA ENGINEERING)
+smb://bxb2-netapp-ns/local/techcomm2
+4:57 PM
+
+
+
+ou 3:03 PM
+
+Please Provide me the details of Shri’s setup so that I can log in to that
+Snehal Biche 3:04 PM
+
+ssh cloud-user@10.86.66.220
+password: cisco123
+You 3:04 PM
+
+Okay
+
+
+thank you
+Snehal Biche 3:04 PM
+
+this is the deployer vm from this you need to login to other vms mentioned below
+Snehal Biche 3:05 PM
+
+Snehal Biche 3:05 PM
+
+use username : ubuntu
+You 3:06 PM
+
+okay
+
+
+
+
+
+
+
+
+
+
+
+https://wiki.cisco.com/pages/viewpage.action?pageId=100075840
+
+
+
+
+
+
+Update Dt. 31-10-2019
+Done
+	1. Basic Ideas about Maven- Build, dependencies, Pom File
+	2. about PATS grammar, General grammar from CPS19-4-0AutomationTestingGrammarReference.pdf
+	3. Got ideas about feature file, scenarios and keywords.
+	4. Eclipse setup done and imported at-solution maven project from Git by downloading it manually.
+	5. gone through the training video of CPS architecture from the link : https://wiki.cisco.com/pages/viewpage.action?pageId=100075840
+
+To Do
+	1. to get SVN access and then will try to connect with SVN through Eclipse.
+
+
+
+
+
+098601550899
+
+
+
+
+Update Dt. 01-11-2019
+Done
+	1. Created Local Repository for Git and Connected with eclipse.
+	2. imported project from SVN to eclipse.
+	3. about PATS grammar, General grammar from CPS19-4-0AutomationTestingGrammarReference.pdf
+
+To Do	
+	1. To connect with Prosenjit about understanding the feature files If he has no problem to share his screen during writing the feature files.
+
+
+
+
+
+Update Dt. 04-11-2019
+Done
+	Webex with Prosenjit about the feature files and got basic understanding of the feature files.
+
+To Do	
+	Tomorrow I will try to make you explain in depth of the feature files and discuss with you about my understanding about these feature files.
+
+Update Dt. 05-11-2019
+Done
+	1. Webex with Prosenjit about the feature file for test case TCPdump proto VM and got the basic understanding about that feature file.
+	2. Gone through CPS19-4-0AutomationTestingQuickStartGuide.pdf to understand PATS Automation,Configuring PATs and how to run testcases by connecting with jenkins in PATS vm.
+
+To Do	
+	Tomorrow I will try to make you explain in depth of the feature files and discuss with you about my understanding about these feature files.
+
+
+
+Update Dt. 06-11-2019
+Done
+	1. Gone through CPS19-4-0AutomationTestingGrammarReference.pdf to get the basic understanding of the feature file grammars.
+
+
+To Do	
+	1. Tomorrow I will try to make you explain in depth of the feature file grammars.
+	2. Couldn't connect with Prosenjit may be he was busy with his own work. Hope I can sync up with him tomorrow.
+
+Update Dt. 05-11-2019
+
+
+
+
+resources/rajat.txt
+Done
+	1. Webex with Prosenjit about the feature file for test case TCPdump proto VM and got the basic understanding about that feature file.
+	2. Gone through CPS19-4-0AutomationTestingQuickStartGuide.pdf to understand PATS Automation,Configuring PATs and how to run testcases by connecting with jenkins in PATS vm.
+
+To Do	
+	Tomorrow I will try to make you explain in depth of the feature files and discuss with you about my understanding about these feature files.
+
+
+Cisco Systems(I)Pvt.Ltd., SEZ,IT-5, QBPL,
+S.No. 154/6, Phase I, Hinjawadi,
+PUNE,
+MAHARASHTRA 411 057,
+INDIA
+
+
+
+18004194000

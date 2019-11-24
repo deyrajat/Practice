@@ -1,0 +1,55 @@
+Install and Configure Git on a Workstation
+===========================================
+Run the following commands on the workstation host, providing your name and email address:
+
+sudo yum install git
+Accept the prompt to download and install packages.
+git config --global user.email john@email.com
+git config --global user.name John
+
+
+
+
+Clone the "Source Unchained" Repository from *http://github.com/linuxacademy/content-git-quickstart* to `/home/cloud_user/play` and Add a New Branch for Your Story
+=======================================================================================================
+Run the following commands:
+
+git clone http://github.com/linuxacademy/content-git-quickstart /home/cloud_user/play
+cd /home/cloud_user/play
+git branch john-story
+
+
+
+Add a New Story File to the Play Files and Track It in Source Control
+=======================================================================================================
+Switch to your new branch
+
+git checkout john-story
+Create a new file (for example, story.txt) with some sample content.
+
+vim /home/cloud_user/play/johns-story.txt
+Add the file to the repository by running the following:
+
+Note: Make sure you are in the repository directory (assuming the filename johns-story.txt).
+cd /home/cloud_user/play
+git add johns-story.txt
+
+
+
+
+Add an Entry to the File `contributers.txt`
+======================================================================================================
+Starting in the directory /home/cloud_user/play:
+
+Edit contributers.txt to add an entry for yourself
+
+vim contributers.txt
+You will need to let git know to track the change you made by running the following:
+
+git add contributers.txt
+
+
+
+Commit Your Changes Using the Message "airplane story"
+======================================================================================================
+Run git commit -m "airplane story" from the directory /home/cloud_user/play.
