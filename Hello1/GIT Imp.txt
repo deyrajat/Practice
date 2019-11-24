@@ -7,7 +7,7 @@ Accept the prompt to download and install packages.
 git config --global user.email john@email.com
 git config --global user.name John
 
-
+editted line number 10
 
 
 Clone the "Source Unchained" Repository from *http://github.com/linuxacademy/content-git-quickstart* to `/home/cloud_user/play` and Add a New Branch for Your Story
